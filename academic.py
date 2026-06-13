@@ -47,8 +47,6 @@ def rodar_bot():
         else:
             st.write('❌Não foi possivel conectar.')
 
-    
-
 
 if __name__ == "__main__":
     rodar_bot()
